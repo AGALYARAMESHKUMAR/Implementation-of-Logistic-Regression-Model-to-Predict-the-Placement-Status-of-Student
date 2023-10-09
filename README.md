@@ -19,13 +19,12 @@ Equipments Required:
     Apply new unknown values
 
 # Program:
-
+```
 /*
-# Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
+Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: Agalya R
 RegisterNumber:  212222040003
 */
-```
 import pandas as pd
 data=pd.read_csv('/Placement_Data(1).csv')
 data.head()
